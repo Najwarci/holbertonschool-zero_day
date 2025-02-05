@@ -15,6 +15,3 @@ Pour créer un nouveau dépôt sur GitHub :
 2. Donne un nom à ton dépôt.
 3. Choisis entre un dépôt public ou privé.
 4. Clique sur **"Create repository"**.
-
-Pour cloner un dépôt en local :
-```bash
